@@ -1,0 +1,14 @@
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\bin\Debug\net8.0\karidiszak.exe
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\bin\Debug\net8.0\karidiszak.deps.json
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\bin\Debug\net8.0\karidiszak.runtimeconfig.json
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\bin\Debug\net8.0\karidiszak.dll
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\bin\Debug\net8.0\karidiszak.pdb
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.AssemblyInfoInputs.cache
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.AssemblyInfo.cs
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.csproj.CoreCompileInputs.cache
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.dll
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\refint\karidiszak.dll
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.pdb
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\karidiszak.genruntimeconfig.cache
+C:\Users\csuka.robert.kristof\Documents\anyuek10gb\karidiszak\karidiszak\obj\Debug\net8.0\ref\karidiszak.dll
